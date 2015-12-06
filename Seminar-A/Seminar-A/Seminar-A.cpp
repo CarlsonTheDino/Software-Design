@@ -8,7 +8,15 @@ using std::cout;
 
 int main()
 {
-	cout << "Hello World!";
-	
+	 // Pseudo code for reading a text file:
+	 
+
+	// Open file for reading
+	// Declare vector
+	// If opens okay
+		// While (still lines to read)
+			// Read line
+			// Push line to vector
+	// Return vector
 }
 
